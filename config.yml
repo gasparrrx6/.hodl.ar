@@ -3,22 +3,26 @@ version: 0.3.2
 
 # HTML Head settings
 html:
-  title: Links | Mi Nombre
+  title: Links | Gaspar Pelayo  
 
 # Main container settings
 main:
-  title: Mi Nombre
+  title: Gaspar (Rapax) Pelayo
 
 # Blocks list
 blocks:
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+  - title: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/gaspar-pelayo
+    
+  - title: Github
+    icon: github
+    url: https://github.com/gasparrrx6
 
   - title: Twitter
     icon: twitter
-    url: https://twitter.lacrypta.com.ar
+    url: https://twitter.com/gasparrrx6
 
-  - title: Github
-    icon: github
-    url: https://github.com/lacrypta
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/gasparrrx6
