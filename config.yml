@@ -4,7 +4,7 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-username: rapax@hodl.ar # < TU_USUARIO@hodl.ar
+username: rapax # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 nostr: # Sin el # adelante
