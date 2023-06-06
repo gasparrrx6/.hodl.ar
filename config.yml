@@ -29,17 +29,17 @@ blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale
 
-  - title: LinkedIn
+- title: Twitter
+    icon: twitter
+    url: https://twitter.com/rapax00
+
+- title: LinkedIn
     icon: linkedin
     url: https://www.linkedin.com/in/gaspar-pelayo
 
   - title: Github
     icon: github
     url: https://github.com/rapax00
-
-  - title: Twitter
-    icon: twitter
-    url: https://twitter.com/rapax00
   
   - title: Nostr
     icon: nostr
