@@ -26,14 +26,11 @@ main:
 
 # Lista de bloques
 blocks:
-  # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
-  # Sacale
-
-- title: Twitter
+  - title: Twitter
     icon: twitter
     url: https://twitter.com/rapax00
-
-- title: LinkedIn
+  
+  - title: LinkedIn
     icon: linkedin
     url: https://www.linkedin.com/in/gaspar-pelayo
 
@@ -48,6 +45,3 @@ blocks:
   - title: Telegram
     icon: telegram
     url: https://t.me/rapax00
-
-# Guardá el archivo haciendo click en Commit Changes, abajo
-# Volvé a las instrucciones
